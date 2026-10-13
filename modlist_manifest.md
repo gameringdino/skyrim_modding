@@ -1,27 +1,29 @@
-# Skyrim High-Fantasy Modlist Manifest
+# Modlist Manifest
 
-## 1. Core Utilities & Engine Fixes
-| Mod Name | Version | Priority Number | Compatibility Status |
-| :--- | :--- | :--- | :--- |
-| SSE Engine Fixes | v6.11+ | 01 | Compatible |
-| Address Library for SKSE Plugins | Latest | 02 | Compatible |
-| MCM Helper | Latest | 03 | Compatible |
+## Core Utilities
+| Mod Name | Description |
+|----------|-------------|
+| Mod1     | Description of Mod1 |
+| Mod2     | Description of Mod2 |
+| Mod3     | Description of Mod3 |
 
-## 2. Realistic Economy & Survival Overhauls
-| Mod Name | Version | Priority Number | Compatibility Status |
-| :--- | :--- | :--- | :--- |
-| Trade and Barter | Latest | 10 | Compatible |
-| Economy Overhaul and Speeds | Latest | 11 | Compatible |
-| Survival Mode Integration | Latest | 12 | Compatible |
+## Economy
+| Mod Name | Description |
+|----------|-------------|
+| Mod4     | Description of Mod4 |
+| Mod5     | Description of Mod5 |
+| Mod6     | Description of Mod6 |
 
-## 3. Modern Combat & Animation Frameworks
-| Mod Name | Version | Priority Number | Compatibility Status |
-| :--- | :--- | :--- | :--- |
-| Payload Interpreter | Latest | 20 | Compatible |
-| Open Animation Replacer (OAR) | Latest | 21 | Compatible |
+## Combat
+| Mod Name | Description |
+|----------|-------------|
+| Mod7     | Description of Mod7 |
+| Mod8     | Description of Mod8 |
+| Mod9     | Description of Mod9 |
 
-## 4. New Lands & Quest Expansions
-| Mod Name | Version | Priority Number | Compatibility Status |
-| :--- | :--- | :--- | :--- |
-| Beyond Skyrim: Bruma | Latest | 30 | Compatible |
-| Vigilant | Latest | 31 | Compatible |
+## Quests
+| Mod Name | Description |
+|----------|-------------|
+| Mod10    | Description of Mod10 |
+| Mod11    | Description of Mod11 |
+| Mod12    | Description of Mod12 |
